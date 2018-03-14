@@ -1,1 +1,1 @@
-# GamaProject1
+# GameProject1
